@@ -1,1 +1,1 @@
-# angularblog
+# angular-laravelblog
